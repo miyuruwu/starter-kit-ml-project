@@ -62,6 +62,9 @@ dev = [
     "types-protobuf",
     "pandas-stubs~=2.3.0",
 ]
+rl = [
+    "stable-baselines3>=2.9.2",
+]
 
 # `uvx ty check smart_buildings` type-checks the project. It resolves imports
 # from ./.venv, so run `uv sync --extra dev` first or the stub-only packages in

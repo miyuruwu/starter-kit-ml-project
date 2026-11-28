@@ -15,6 +15,12 @@ env/
 .idea/
 .obsidian/
 
+# Local development notes
+/AGENTS.md
+/RL_PROGRESS.md
+/HANDOVER.md
+/environment_inspection.txt
+
 # Notebooks
 .ipynb_checkpoints/
 
